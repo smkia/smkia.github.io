@@ -9,56 +9,78 @@ redirect_from:
 
 {% include base_path %}
 
+---
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /cv.html
+---
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, **University of Trento, Italy**, 2017  
+  * Thesis: *Brain Decoding for Brain Mapping: Definition, Heuristic Quantification, and Improvement of Interpretability in Group MEG Decoding*
+
+* M.S. in Cognitive Neuroscience, **University of Trento, Italy**, 2013  
+  * Thesis: *Mass-Univariate Hypothesis Testing on MEEG Data using Cross-Validation*
+
+* B.S. in Computer Software Engineering, **Ferdowsi University of Mashhad, Iran**, 2007  
+  * Thesis: *Speaker-dependent Lip Synchronization using Neural Networks*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2022–Present**: Assistant Professor  
+  * **Department of Cognitive Science and Artificial Intelligence, Tilburg University, Netherlands**  
+  * Research focus: Machine learning for neuroimaging, normative modeling, AI in mental health  
+  * Teaching: Data Processing Advanced, Methods for Responsible AI  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2020–2022**: Postdoctoral Research Fellow  
+  * **University Medical Center Utrecht, Netherlands**  
+  * Project: *Psychosis Prognosis Prediction*  
+  * Researching machine learning models for early diagnosis and treatment prediction in psychosis  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **2017–2020**: Postdoctoral Research Fellow  
+  * **Radboud University Medical Center, Donders Institute, Netherlands**  
+  * Project: *Understanding Heterogeneity in Clinical Neuroimaging Cohorts*  
+  * Developing normative modeling methods for large-scale neuroimaging datasets  
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Machine Learning for Neuroimaging**
+  * Deep Learning  
+  * Normative Modeling  
+  * Bayesian Regression  
+  * Federated Learning  
+
+* **Neuroimaging Data Analysis**
+  * EEG / MEG Processing  
+  * MRI / fMRI Analysis  
+  * Signal Processing  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Founder & Organizer**: Machine Learning for Clinical Neuroimaging (MLCN) workshop (2018–2024, in conjunction with MICCAI)  
+* **Committee Member**: Surface Learning for Clinical Neuroimaging (SLCN) challenge, MICCAI 2022  
+* **Reviewer** for journals & conferences: *NeuroImage, IEEE Transactions on Medical Imaging, Nature Protocols, MICCAI, NeurIPS, ICML, ICLR*  
+* **Supervision**: Over 30 Master’s students and multiple Ph.D. students  
+
