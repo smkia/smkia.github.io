@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Tilburg, The Netherlands"
   employer         : "Tilburg University"
-  uri              : # URL
+  uri              : https://research.tilburguniversity.edu/en/persons/seyed-mostafa-kia
   email            : "s.m.kia@tilburguniversity.edu" 
 
   # Academic websites
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/smkia"
+  github           : "smkia"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
