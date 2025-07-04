@@ -9,6 +9,8 @@ header:
   image: /images/banner.png
 ---
 
+![Machine Learning for Precision Neuropsychiatry](/images/banner.png)
+
 About Me
 ======
 I am an Assistant Professor at Tilburg University in the Department of Cognitive Science and Artificial Intelligence. My research focuses on machine learning for brain data (MEG, EEG), with applications in psychiatry and precision neuroscience.
