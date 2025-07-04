@@ -7,4 +7,11 @@ venue: "ICML Workshop on Human Interpretability in Machine Learning (WHI 2016)"
 authors: "Kia, Seyed Mostafa and Passerini, Andrea"
 paperurl: ""
 citation: "Kia, Seyed Mostafa and Passerini, Andrea (2016). Interpretability in Linear Brain Decoding. ICML Workshop on Human Interpretability in Machine Learning (WHI 2016)."
+bibtex: |
+  @inproceedings{kia2016interpretability,
+    year = {2016},
+    booktitle = {ICML Workshop on Human Interpretability in Machine Learning (WHI 2016)},
+    author = {Kia, Seyed Mostafa and Passerini, Andrea},
+    title = {Interpretability in Linear Brain Decoding},
+  }
 ---

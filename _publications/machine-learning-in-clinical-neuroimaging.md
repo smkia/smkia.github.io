@@ -7,4 +7,10 @@ venue: "Unknown venue"
 authors: "Bathula, Deepti R and Deepti R./Benet Nirmala Bathula (Anoo) and Dvornek, Nicha C"
 paperurl: ""
 citation: "Bathula, Deepti R and Deepti R./Benet Nirmala Bathula (Anoo) and Dvornek, Nicha C (2024). Machine Learning in Clinical Neuroimaging. Unknown venue."
+bibtex: |
+  @misc{bathula2024machine,
+    year = {2024},
+    author = {Bathula, Deepti R and Deepti R./Benet Nirmala Bathula (Anoo) and Dvornek, Nicha C},
+    title = {Machine Learning in Clinical Neuroimaging},
+  }
 ---

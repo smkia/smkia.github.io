@@ -4,7 +4,15 @@ collection: publications
 permalink: /publication/mlcn-2018-preface
 date: 2018-01-01
 venue: "First International Workshops MLCN 2018, DLF 2018, and iMIMIC 2018, Held in Conjunction with MICCAI 2018, Granada, Spain, September 16-20, 2018"
-authors: "Kia, Seyed Mostafa and Marquand, Andre and Duchesnay, Edouard and L{\"o}fstedt, Tommy"
+authors: "Kia, Seyed Mostafa and Marquand, Andre and Duchesnay, Edouard and L{\\\"o}fstedt, Tommy"
 paperurl: ""
-citation: "Kia, Seyed Mostafa and Marquand, Andre and Duchesnay, Edouard and L{\"o}fstedt, Tommy (2018). MLCN 2018 preface. First International Workshops MLCN 2018, DLF 2018, and iMIMIC 2018, Held in Conjunction with MICCAI 2018, Granada, Spain, September 16-20, 2018."
+citation: "Kia, Seyed Mostafa and Marquand, Andre and Duchesnay, Edouard and L{\\\"o}fstedt, Tommy (2018). MLCN 2018 preface. First International Workshops MLCN 2018, DLF 2018, and iMIMIC 2018, Held in Conjunction with MICCAI 2018, Granada, Spain, September 16-20, 2018."
+bibtex: |
+  @inproceedings{kia2018mlcn,
+    organization = {Springer},
+    year = {2018},
+    booktitle = {First International Workshops MLCN 2018, DLF 2018, and iMIMIC 2018, Held in Conjunction with MICCAI 2018, Granada, Spain, September 16-20, 2018},
+    author = {Kia, Seyed Mostafa and Marquand, Andre and Duchesnay, Edouard and L{\"o}fstedt, Tommy},
+    title = {MLCN 2018 preface},
+  }
 ---
