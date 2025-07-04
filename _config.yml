@@ -22,7 +22,7 @@ repository               : "https://github.com/smkia"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/me.jpeg"
+  avatar           : "/assets/images/me.jpg"
   name             : "Seyed Mostafa Kia"
   pronouns         : He/Him # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
