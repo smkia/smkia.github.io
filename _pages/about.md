@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Machine Learning for Precision Neuropsychiatry"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 
 ---
-
-![](/images/banner.png)
 
 About Me
 ======
