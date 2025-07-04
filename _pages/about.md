@@ -5,11 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: /images/banner.png
+
 ---
 
-![Machine Learning for Precision Neuropsychiatry](/images/banner.png)
+![](/images/banner.png)
 
 About Me
 ======
